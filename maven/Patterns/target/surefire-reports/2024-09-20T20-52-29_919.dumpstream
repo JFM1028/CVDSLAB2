@@ -1,0 +1,5 @@
+# Created at 2024-09-20T20:52:30.030
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Documentos\Universdiad\GitHub\CVDSLAB2\maven\Patterns\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
